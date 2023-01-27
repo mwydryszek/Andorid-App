@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Projekt13_11</string>
+
+    <string name="outpar">paremetr wyjsciowy</string>
+    <string name="inpar">parameter wejściowy</string>
+
+    <string name="tekst_pusty"></string>
+    <string name="tekst_start">start</string>
+    <string name="tekst_stop">stop</string>
+
+    <string name="tyl">tyl</string>
+    <string name="wyjdz">wyjdz</string>
+    <string name="przod">przod</string>
+
+
+</resources>
